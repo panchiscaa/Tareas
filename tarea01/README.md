@@ -2,6 +2,8 @@
 
 ### 1. **Aumento de las mujeres en la industria musical urbana chilena** 
 
+![mujeres](https://s.13.cl/sites/default/files/styles/manualcrop_850x475/public/programas/articulos/field-imagen/2023-07/cantantes_chilenas_urbanas.jpg.jpeg?itok=gMGeHY49)
+
 **Pros:**
 - ¿Cómo evaluar el aumento de las mujeres en la industria? Reproducciones, seguidores, cantidad de shows o conciertos que ha realizado, colaboraciones con otros artistas, alcance de su música en el extranjero, etc.
 - Podemos evuluar el éxito de las mujeres mediante varias variables: Reproducciones mediante Spotify o Youtube, Seguidores en Instagram, etc.
@@ -13,6 +15,8 @@
 
 ### 2. **Sustentabilidad y Gestión de Residuos en conciertos y/o festivales de música**
 
+![coldplay](https://media.admagazine.com/photos/62546c38d076dd81ad5d7fcf/3:2/w_2793,h_1862,c_limit/coldplay.jpg)
+
 **Pros:**
 - Se pueden medir variables como la cantidad de residuos generados, tasas de reciclaje, y la implementación de políticas de sostenibilidad (uso de energía renovable, reducción de plásticos).
 - Muchos conciertos y festivales ahora publican sus políticas de sustentabilidad y los resultados de sus esfuerzos de reducción de residuos.
@@ -23,6 +27,8 @@
 - La eficacia de las políticas de sustentabilidad puede variar ampliamente entre conciertos y festivales, lo que complica el análisis de su impacto real.
 
 ### 3. **Auge de los servicios de cuidado y bienestar para mascotas**
+
+![perritos](https://www.clinicaveterinariamh.com/wp-content/uploads/2023/08/45.jpg)
 
 **Pros:**
 - Se pueden analizar variables como el crecimiento del número de empresas de cuidado de mascotas, el aumento en la demanda de servicios como guarderías, paseos, peluquería y salud mental, y el gasto promedio por hogar en estos servicios.
