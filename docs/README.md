@@ -32,6 +32,5 @@ La página web se divide en dos archivos principales:
 - **[CodePen](https://codepen.io/)**: Exploré diseños simples de portafolios para inspirarme en la disposición de elementos.  
 - **[Coolors](https://coolors.co/)**: Herramienta para generar paletas de colores.  
 - **[Google Fonts](https://fonts.google.com/)**: Elegí una fuente profesional y legible para mi CV.  
-- **[Chat GPT](https://chatgpt.com/)**: Use chat gpt para ayudarme a corregir errores y además para la realización del CSS porque relmente no sabía que era, ni como se usaba.
 
 **LINK página web:** [https://panchiscaa.github.io/Tareas/].  
